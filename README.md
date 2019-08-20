@@ -1,7 +1,5 @@
 # Recurrent Neural Network and Chat Robot
 
-## Introduction
-
 ### Description
 
 Developing a model employing ANN on real-world data requires going through several major steps, each of which with 
